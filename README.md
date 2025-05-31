@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Improving and optimizing SQL queries, DAX formulas, Python data processing, and statistical analysis workflows.**
 
-- 💬 Ask me about **Data visualization, analytics projects, and data automation (including refreshes and scheduled updates), with ongoing learning in full ETL automation.**
+- 💬 Ask me about **Data visualization, analytics projects, and data automation (including refreshes and scheduled updates) — I'm also expanding my skills in full ETL automation.**
 
 - ⚡ Fun fact **I think I’m funny — I love solving puzzles, and data is my favorite kind! Turning messy data into clear, compelling stories is my superpower. 😄**
 
