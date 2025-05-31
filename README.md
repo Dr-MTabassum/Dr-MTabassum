@@ -5,9 +5,9 @@
 </div>
 
 
-<img align="right" alt="coding" width="200" height="200" src="https://msblogs.thesourcemediaassets.com/sites/73/2020/07/open-data-map.gif">
+<img align="right" alt="coding" width="200" height="150" src="https://msblogs.thesourcemediaassets.com/sites/73/2020/07/open-data-map.gif">
 
-<img align="left" alt="coding" width="200" height="200" src="https://msblogs.thesourcemediaassets.com/sites/5/2020/04/HEaderGIFOpenData.gif">
+<img align="left" alt="coding" width="200" height="150" src="https://msblogs.thesourcemediaassets.com/sites/5/2020/04/HEaderGIFOpenData.gif">
 
 
 <div align="center">
