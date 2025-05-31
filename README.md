@@ -13,7 +13,42 @@ I’m also diving into the cloud world with Snowflake, Google BigQuery, Supabase
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:944/0*F4t8-xz-b98ZcvEH.gif">
 
 
-Skills: SQL / MySQL / PostgreSQL / SQL Server Python (EDA) / Pandas / NumPy / Matplotlib / Seaborn Power BI (Desktop & Service) / DAX / Data Automation / Scheduled Refresh Excel (Advanced) / PivotTables / Power Query / Power Pivot / Lookup Functions (VLOOKUP, XLOOKUP) Looker Studio / Google Sheets / Tableau Snowflake / Google BigQuery / Supabase / Metabase Data Cleaning / Data Wrangling / Dashboarding / Statistical Analysis ETL Concepts / Data Storytelling / Reporting / Visualization Best Practices
+### What I work with
+
+💾 SQL (MySQL, PostgreSQL, SQL Server)  
+🐍 Python (EDA, Pandas, NumPy, Matplotlib, Seaborn)  
+📊 Power BI (Desktop & Service), Looker Studio, Tableau  
+📈 Excel (Advanced: PivotTables, Power Query, Power Pivot, VLOOKUP, XLOOKUP)  
+☁️ Snowflake, Google BigQuery, Supabase, Metabase  
+🧹 Data Cleaning, Wrangling, Dashboarding, Statistical Analysis  
+⚙️ ETL Concepts, Data Storytelling, Reporting, Visualization Best Practices
+
+
+### Skills in Tools
+
+![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=sql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-1A1A1A?style=for-the-badge&logo=seaborn&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-FF5F18?style=for-the-badge&logo=google&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-0F9D58?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+![Snowflake](https://img.shields.io/badge/Snowflake-0099E5?style=for-the-badge&logo=snowflake&logoColor=white)
+![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-2D3640?style=for-the-badge&logo=metabase&logoColor=white)
+
+
 
 - 🔭 I’m currently working on this page.A Power BI dashboard project exploring rail ticket transactions, train traffic density, revenue trends, and performance metrics to support data-driven decisions as part of my data analyst internship.
   
