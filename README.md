@@ -83,7 +83,7 @@ I’m also diving into the cloud world with Snowflake, Google BigQuery, Supabase
 &nbsp;
 
 
-<img align="left" alt="coding" width="500" height="400" src="https://www.firstinsight.com/hubfs/data_is_the_new_oil.png">
+<img align="left" alt="coding" width="450" height="400" src="https://www.firstinsight.com/hubfs/data_is_the_new_oil.png">
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dr-MTabassum&show_icons=true&count_private=true)  
