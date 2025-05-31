@@ -13,15 +13,22 @@ I’m also diving into the cloud world with Snowflake, Google BigQuery, Supabase
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:944/0*F4t8-xz-b98ZcvEH.gif">
 
 
-### What I work with
+### I Specialize in
 
-💾 SQL (MySQL, PostgreSQL, SQL Server)  
-🐍 Python (EDA, Pandas, NumPy, Matplotlib, Seaborn)  
-📊 Power BI (Desktop & Service), Looker Studio, Tableau  
-📈 Excel (Advanced: PivotTables, Power Query, Power Pivot, VLOOKUP, XLOOKUP)  
-☁️ Snowflake, Google BigQuery, Supabase, Metabase  
-🧹 Data Cleaning, Wrangling, Dashboarding, Statistical Analysis  
-⚙️ ETL Concepts, Data Storytelling, Reporting, Visualization Best Practices
+💾 Advanced SQL (MySQL, PostgreSQL, SQL Server) for robust data querying and optimization  
+
+🐍 Python (EDA, Pandas, NumPy, Matplotlib, Seaborn) for insightful data analysis and visualization  
+
+📊 Power BI (Desktop & Service), Looker Studio, Tableau for building interactive, automated dashboards  
+
+📈 Advanced Excel (PivotTables, Power Query, Power Pivot, VLOOKUP, XLOOKUP) and Google Sheets for data manipulation, dashboard creation and data reporting  
+
+☁️ Cloud Data Platforms including Snowflake, Google BigQuery, Supabase, and Metabase  
+
+🧹 Expert in data cleaning, wrangling, dashboard creation, and statistical analysis  
+
+⚙️ Understanding of ETL concepts, with experience in data storytelling, reporting, and visualization best practices  
+
 
 
 ### Skills in Tools
