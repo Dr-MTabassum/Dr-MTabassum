@@ -10,7 +10,7 @@ I’m also diving into the cloud world with Snowflake, Google BigQuery, Supabase
 
 &nbsp;
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:944/0*F4t8-xz-b98ZcvEH.gif">
+<img align="right" alt="coding" width="400" height="400" src="https://miro.medium.com/v2/resize:fit:944/0*F4t8-xz-b98ZcvEH.gif">
 
 
 ### How I Make Data Dance 💃📊✨🎯🚀
@@ -32,7 +32,8 @@ I’m also diving into the cloud world with Snowflake, Google BigQuery, Supabase
 
 &nbsp;
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/42048428/file/original-5556a4747a42101e13106b2bc755eb96.gif">
+
+<img align="right" alt="coding" width="425" height="275" src="https://exceltable.com/en/templates/images/template6-1.gif"> 
 
 ### The Tech Behind My Data Magic 🛠️🎩🎛️🎇💫
 
@@ -60,6 +61,7 @@ I’m also diving into the cloud world with Snowflake, Google BigQuery, Supabase
 
 
 &nbsp;
+
 - 🔭 I’m currently working on this page.A Power BI dashboard project exploring rail ticket transactions, train traffic density, revenue trends, and performance metrics to support data-driven decisions as part of my data analyst internship.
   
 - 🌱 I’m currently learning Advanced Power BI, Python for data analysis, advanced SQL and query optimization, statistical analysis, data visualization best practices, and hands-on experience with Metabase, Google BigQuery, Snowflake, and Supabase.
@@ -76,7 +78,7 @@ I’m also diving into the cloud world with Snowflake, Google BigQuery, Supabase
   
 - ⚡ Fun fact: I think I’m funny — I love solving puzzles, and data is my favorite kind ! Turning messy data into clear, compelling stories is my superpower. 💃😄 
 
-&nbsp;
+<br><br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dr-MTabassum&show_icons=true&count_private=true)  
 
 
