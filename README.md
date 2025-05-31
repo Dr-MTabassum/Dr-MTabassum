@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Maisha Tabassum</h1>
-<h3 align="center">A passionate 🎓 PhD-Qualified Data Analyst | STEM Educator | Research-Driven Strategist in Insights & Innovation</h3>
+<h3 align="center">A passionate 🎓 PhD-Qualified Data Analyst from The University of Sydney, Australia | STEM Educator | Research-Driven Strategist in Insights & Innovation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dr-mtabassum&label=Profile%20views&color=0e75b6&style=flat" alt="dr-mtabassum" /> </p>
+
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/b0ad1c0f-ef65-46bd-9bb5-7ccb2adf73d0)
+">
 
 - 🔭 I’m currently working on **A Power BI dashboard project exploring rail ticket transactions, train traffic density, revenue trends, and performance metrics to support data-driven decisions as part of my data analyst internship.**
 
