@@ -32,6 +32,7 @@ I’m also diving into the cloud world with Snowflake, Google BigQuery, Supabase
 
 &nbsp;
 
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/42048428/file/original-5556a4747a42101e13106b2bc755eb96.gif">
 
 ### The Tech Behind My Data Magic 🛠️🎩🎛️🎇💫
 
