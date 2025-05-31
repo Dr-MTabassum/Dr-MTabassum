@@ -79,7 +79,7 @@ I’m also diving into the cloud world with Snowflake, Google BigQuery, Supabase
   
 - ⚡ Fun fact: I think I’m funny — I love solving puzzles, and data is my favorite kind ! Turning messy data into clear, compelling stories is my superpower. 💃😄 
 
-<br><br>
+
 
 <img align="right" alt="coding" width="400" height="400" src="https://www.firstinsight.com/hubfs/data_is_the_new_oil.png">
 
