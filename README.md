@@ -21,7 +21,7 @@
 
  
 
-Data is my playground—and dashboards are my canvas! 🎓 As a PhD-qualified Data Analyst with a flair for uncovering insights and telling compelling stories, I bring research precision to real-world analytics. I specialize in data wrangling, exploratory data analysis (EDA), and dashboard automation using SQL (MySQL, PostgreSQL, SQL Server), Python, Power BI (Desktop & Service), Advanced Excel, Looker Studio, Tableau, and Google Sheets.
+Data is my playground—and dashboards are my canvas! 🎓 As a PhD-qualified Data Analyst with a flair for uncovering insights and telling compelling stories, I bring research precision to real-world analytics. I specialize in data wrangling, exploratory data analysis (EDA), building dynamic & interactive dashboards for insightful data visualization and dashboard automation using SQL (MySQL, PostgreSQL, SQL Server), Python, Power BI (Desktop & Service), Advanced Excel, Looker Studio, Tableau, and Google Sheets.
 
 I’m also diving into the cloud world with Snowflake, Google BigQuery, Supabase, and Metabase. I turn messy data into smart dashboards and sharp decisions—sprinkling in Excel magic and a big dash of data passion! Simply put: data speaks, and I listen. 😄
 
