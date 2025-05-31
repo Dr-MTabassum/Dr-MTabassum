@@ -1,4 +1,12 @@
 # Hi there 👋, I'm Maisha Tabassum
+
+<img align="right" alt="coding" width="200" height="100" src="https://msblogs.thesourcemediaassets.com/sites/73/2020/07/open-data-map.gif">
+
+<img align="left" alt="coding" width="200" height="100" src="https://msblogs.thesourcemediaassets.com/sites/5/2020/04/HEaderGIFOpenData.gif">
+
+
+
+
 ## A passionate 🎓 PhD-Qualified Data Analyst from The University of Sydney, Australia | STEM Educator | Research-Driven Strategist in Insights & Innovation
 ![A passionate 🎓 PhD-Qualified Data Analyst from The University of Sydney, Australia | STEM Educator | Research-Driven Strategist in Insights & Innovation](https://github.com/Dr-MTabassum/Dr-MTabassum/blob/main/cover_link.png)
  
