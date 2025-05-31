@@ -33,7 +33,7 @@ I’m also diving into the cloud world with Snowflake, Google BigQuery, Supabase
 &nbsp;
 
 
-<img align="right" alt="coding" width="425" height="275" src="https://exceltable.com/en/templates/images/template6-1.gif"> 
+<img align="right" alt="coding" width="425" height="300" src="https://exceltable.com/en/templates/images/template6-1.gif"> 
 
 ### The Tech Behind My Data Magic 🛠️🎩🎛️🎇💫
 
