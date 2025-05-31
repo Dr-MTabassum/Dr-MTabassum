@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Maisha Tabassum
-#### A passionate 🎓 PhD-Qualified Data Analyst from The University of Sydney, Australia | STEM Educator | Research-Driven Strategist in Insights & Innovation
+# Hi there 👋, I'm Maisha Tabassum
+## A passionate 🎓 PhD-Qualified Data Analyst from The University of Sydney, Australia | STEM Educator | Research-Driven Strategist in Insights & Innovation
 ![A passionate 🎓 PhD-Qualified Data Analyst from The University of Sydney, Australia | STEM Educator | Research-Driven Strategist in Insights & Innovation](https://github.com/Dr-MTabassum/Dr-MTabassum/blob/main/cover_link.png)
  
 
