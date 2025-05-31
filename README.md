@@ -1,3 +1,4 @@
+![logo](https://github.com/Dr-MTabassum/Dr-MTabassum/blob/main/cover_link.png)
 <h1 align="center">Hi 👋, I'm Maisha Tabassum</h1>
 <h3 align="center">A passionate 🎓 PhD-Qualified Data Analyst from The University of Sydney, Australia | STEM Educator | Research-Driven Strategist in Insights & Innovation</h3>
 
