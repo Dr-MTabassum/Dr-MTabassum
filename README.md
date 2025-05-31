@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Data visualization, analytics projects, and data automation (including refreshes and scheduled updates) — I'm also expanding my skills in full ETL automation.**
 
-- ⚡ Fun fact **I think I’m funny — I love solving puzzles, and data is my favorite kind! Turning messy data into clear, compelling stories is my superpower. 😄**
+- ⚡ Fun fact **I think I’m funny — I love solving puzzles, and data is my favorite kind ! Turning messy data into clear, compelling stories is my superpower. 💃😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
