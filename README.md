@@ -56,8 +56,9 @@ I’m also diving into the cloud world with Snowflake, Google BigQuery, Supabase
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-0099E5?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Metabase](https://img.shields.io/badge/Metabase-2D3640?style=for-the-badge&logo=metabase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
 
 
 &nbsp;
