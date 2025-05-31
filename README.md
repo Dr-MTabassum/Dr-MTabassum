@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dr-mtabassum&label=Profile%20views&color=0e75b6&style=flat" alt="dr-mtabassum" /> </p>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/b0ad1c0f-ef65-46bd-9bb5-7ccb2adf73d0)
-">
+<img align="right" alt="coding" width="400" src="[![image](https://github.com/user-attachments/assets/b0ad1c0f-ef65-46bd-9bb5-7ccb2adf73d0)](https://miro.medium.com/v2/resize:fit:944/0*F4t8-xz-b98ZcvEH.gif)">
 
 - 🔭 I’m currently working on **A Power BI dashboard project exploring rail ticket transactions, train traffic density, revenue trends, and performance metrics to support data-driven decisions as part of my data analyst internship.**
 
