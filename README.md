@@ -77,11 +77,14 @@ I’m also diving into the cloud world with Snowflake, Google BigQuery, Supabase
   
 - 😄 Pronouns: She/ Her
   
-- ⚡ Fun fact: I think I’m funny — I love solving puzzles, and data is my favorite kind ! Turning messy data into clear, compelling stories is my superpower. 💃😄 
+- ⚡ Fun fact: I think I’m funny — I love solving puzzles, and data is my favorite kind ! Turning messy data into clear, compelling stories is my superpower. 💃😄
+  
+
+&nbsp;
 
 
+<img align="left" alt="coding" width="300" height="400" src="https://www.firstinsight.com/hubfs/data_is_the_new_oil.png">
 
-<img align="right" alt="coding" width="400" height="400" src="https://www.firstinsight.com/hubfs/data_is_the_new_oil.png">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dr-MTabassum&show_icons=true&count_private=true)  
 
