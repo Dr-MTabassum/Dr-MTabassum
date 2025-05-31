@@ -1,14 +1,24 @@
+<div align="center">
+
 # Hi there 👋, I'm Maisha Tabassum
+
+</div>
+
 
 <img align="right" alt="coding" width="200" height="100" src="https://msblogs.thesourcemediaassets.com/sites/73/2020/07/open-data-map.gif">
 
 <img align="left" alt="coding" width="200" height="100" src="https://msblogs.thesourcemediaassets.com/sites/5/2020/04/HEaderGIFOpenData.gif">
 
 
+<div align="center">
 
+## A passionate 🎓 PhD-Qualified Data Analyst from The University of Sydney, Australia  
+### STEM Educator | Research-Driven Strategist in Insights & Innovation
 
-## A passionate 🎓 PhD-Qualified Data Analyst from The University of Sydney, Australia | STEM Educator | Research-Driven Strategist in Insights & Innovation
 ![A passionate 🎓 PhD-Qualified Data Analyst from The University of Sydney, Australia | STEM Educator | Research-Driven Strategist in Insights & Innovation](https://github.com/Dr-MTabassum/Dr-MTabassum/blob/main/cover_link.png)
+
+</div>
+
  
 
 Data is my playground—and dashboards are my canvas! 🎓 As a PhD-qualified Data Analyst with a flair for uncovering insights and telling compelling stories, I bring research precision to real-world analytics. I specialize in data wrangling, exploratory data analysis (EDA), and dashboard automation using SQL (MySQL, PostgreSQL, SQL Server), Python, Power BI (Desktop & Service), Advanced Excel, Looker Studio, Tableau, and Google Sheets.
