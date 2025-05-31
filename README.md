@@ -80,6 +80,9 @@ I’m also diving into the cloud world with Snowflake, Google BigQuery, Supabase
 - ⚡ Fun fact: I think I’m funny — I love solving puzzles, and data is my favorite kind ! Turning messy data into clear, compelling stories is my superpower. 💃😄 
 
 <br><br>
+
+<img align="right" alt="coding" width="450" height="400" src="https://www.firstinsight.com/hubfs/data_is_the_new_oil.png">
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dr-MTabassum&show_icons=true&count_private=true)  
 
 
