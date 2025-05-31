@@ -8,7 +8,7 @@ Data is my playground—and dashboards are my canvas! 🎓 As a PhD-qualified Da
 I’m also diving into the cloud world with Snowflake, Google BigQuery, Supabase, and Metabase. I turn messy data into smart dashboards and sharp decisions—sprinkling in Excel magic and a big dash of data passion! Simply put: data speaks, and I listen. 😄
 
 
-
+&nbsp;
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:944/0*F4t8-xz-b98ZcvEH.gif">
 
@@ -27,8 +27,10 @@ I’m also diving into the cloud world with Snowflake, Google BigQuery, Supabase
 
 🧹 Expert in data cleaning, wrangling, dashboard creation, and statistical analysis  
 
-⚙️ Understanding of ETL concepts, with experience in data storytelling, reporting, and visualization best practices  
+⚙️ Understanding of ETL concepts, with experience in data storytelling, reporting, and visualization best practices
 
+
+&nbsp;
 
 
 ### The Tech Behind My Data Magic 🛠️🎩🎛️🎇💫
@@ -56,7 +58,7 @@ I’m also diving into the cloud world with Snowflake, Google BigQuery, Supabase
 ![Metabase](https://img.shields.io/badge/Metabase-2D3640?style=for-the-badge&logo=metabase&logoColor=white)
 
 
-
+&nbsp;
 - 🔭 I’m currently working on this page.A Power BI dashboard project exploring rail ticket transactions, train traffic density, revenue trends, and performance metrics to support data-driven decisions as part of my data analyst internship.
   
 - 🌱 I’m currently learning Advanced Power BI, Python for data analysis, advanced SQL and query optimization, statistical analysis, data visualization best practices, and hands-on experience with Metabase, Google BigQuery, Snowflake, and Supabase.
@@ -73,7 +75,7 @@ I’m also diving into the cloud world with Snowflake, Google BigQuery, Supabase
   
 - ⚡ Fun fact: I think I’m funny — I love solving puzzles, and data is my favorite kind ! Turning messy data into clear, compelling stories is my superpower. 💃😄 
 
-
+&nbsp;
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dr-MTabassum&show_icons=true&count_private=true)  
 
 
