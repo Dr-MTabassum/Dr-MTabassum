@@ -108,8 +108,6 @@ I’m also diving into the cloud world with Snowflake, Google BigQuery, Supabase
 
 &nbsp;
 
-
-
 <br><br><br><br><br><br> <!-- Creates line gaps between images and icons -->
 
 
@@ -120,11 +118,11 @@ I’m also diving into the cloud world with Snowflake, Google BigQuery, Supabase
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://yourwebsite.com" target="_blank">
+  <a href="https://yourwebsite.com" target="blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="website" height="40">
   </a>
 </p>
