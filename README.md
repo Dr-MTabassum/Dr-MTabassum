@@ -107,23 +107,21 @@ I’m also diving into the cloud world with Snowflake, Google BigQuery, Supabase
 
 
 
-&nbsp;
+<br><br><br><br><br><br> <!-- Creates line gaps between images and icons -->
 
-
-<p align="center">Let's connect!</p>
+<p align="center"><strong>Let's connect!</strong></p>
 
 <p align="center">
-  <a href="https://github.com/Dr-MTabassum">
+  <a href="https://github.com/Dr-MTabassum" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40">
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40">
   </a>
-  &nbsp;
-  <a href="https://yourwebsite.com">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://yourwebsite.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="website" height="40">
   </a>
 </p>
-
 
