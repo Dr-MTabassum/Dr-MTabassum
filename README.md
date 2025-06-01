@@ -108,13 +108,13 @@ I’m also diving into the cloud world with Snowflake, Google BigQuery, Supabase
 
 &nbsp;
 
-<br><br><br><br><br><br> <!-- Creates line gaps between images and icons -->
+<br><br> <!-- Creates line gaps between images and icons -->
 
 
 <p align="center"><strong>Let's connect!</strong></p>
 
 <p align="center">
-  <a href="https://github.com/Dr-MTabassum" target="_blank">
+  <a href="https://github.com/Dr-MTabassum" target="blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40">
   </a>
   &nbsp;&nbsp;&nbsp;
