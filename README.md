@@ -110,7 +110,7 @@ I’m also diving into the cloud world with Snowflake, Google BigQuery, Supabase
 <img align="right" alt="coding" width="370" height="400" src="https://www.firstinsight.com/hubfs/data_is_the_new_oil.png">
 
 
-<img align="left" alt="coding" width="455" height="500" src="https://www.arkatechture.com/hs-fs/hubfs/Pyramid-new.gif?width=481&name=Pyramid-new.gif">
+<img align="left" alt="coding" width="455" height="450" src="https://www.arkatechture.com/hs-fs/hubfs/Pyramid-new.gif?width=481&name=Pyramid-new.gif">
 
 
 <br><br>
