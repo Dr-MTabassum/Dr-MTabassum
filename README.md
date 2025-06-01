@@ -106,24 +106,23 @@ I’m also diving into the cloud world with Snowflake, Google BigQuery, Supabase
 <img align="left" alt="coding" width="450" height="350" src="https://media.licdn.com/dms/image/v2/D5612AQHSMS0TGgRL3g/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1723062158785?e=2147483647&v=beta&t=-NpTOuDwsn9GMBGM6D_kIaqdMuXXJwczHM4k-M5lMIQ">
 
 
-&nbsp;
-
-<br><br> <!-- Creates line gaps between images and icons -->
-
-
 <p align="center"><strong>Let's connect!</strong></p>
 
 <p align="center">
-  <a href="https://github.com/Dr-MTabassum" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40">
+  <a href="https://github.com/Dr-MTabassum" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40">
+  &nbsp;
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://yourwebsite.com" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="website" height="40">
+  &nbsp;
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=icloud&logoColor=white" alt="Website">
   </a>
 </p>
+
+
+
+ 
 
