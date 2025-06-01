@@ -115,8 +115,6 @@ I’m also diving into the cloud world with Snowflake, Google BigQuery, Supabase
 
 &nbsp;
 
-<br><br>
-
 &nbsp;
 
 
