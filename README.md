@@ -111,17 +111,19 @@ I’m also diving into the cloud world with Snowflake, Google BigQuery, Supabase
 <p align="center"><strong>Let's connect!</strong></p>
 
 <p align="center">
-  <a href="https://github.com/Dr-MTabassum" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+ 
+ 
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/My--Portfolio-4285F4?style=for-the-badge&logo=icloud&logoColor=white" alt="Portfolio">
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  &nbsp;
-  <a href="https://yourwebsite.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=icloud&logoColor=white" alt="Website">
+ 
+   <a href="https://github.com/Dr-MTabassum" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+
 </p>
 
 
