@@ -31,7 +31,7 @@ I’m also diving into the cloud world with Snowflake, Google BigQuery, Supabase
 <img align="right" alt="coding" width="400" height="400" src="https://miro.medium.com/v2/resize:fit:944/0*F4t8-xz-b98ZcvEH.gif">
 
 
-### How I Make Data Dance 💃📊✨🎯🚀
+## How I Make Data Dance 💃📊✨🎯🚀
 
 💾 Advanced SQL (MySQL, PostgreSQL, SQL Server) for robust data querying and optimization  
 
@@ -53,7 +53,7 @@ I’m also diving into the cloud world with Snowflake, Google BigQuery, Supabase
 
 <img align="right" alt="coding" width="425" height="300" src="https://exceltable.com/en/templates/images/template6-1.gif"> 
 
-### The Tech Behind My Data Magic 🛠️🎩🎛️🎇💫
+## The Tech Behind My Data Magic 🛠️🎩🎛️🎇💫
 
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=sql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
