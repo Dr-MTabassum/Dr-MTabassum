@@ -101,9 +101,9 @@ I’m also diving into the cloud world with Snowflake, Google BigQuery, Supabase
 &nbsp;
 
 
-<img align="right" alt="coding" width="400" height="350" src="https://www.firstinsight.com/hubfs/data_is_the_new_oil.png">
+<img align="right" alt="coding" width="500" height="350" src="https://www.firstinsight.com/hubfs/data_is_the_new_oil.png">
 
-<img align="left" alt="coding" width="400" height="350" src="https://media.licdn.com/dms/image/v2/D5612AQHSMS0TGgRL3g/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1723062158785?e=2147483647&v=beta&t=-NpTOuDwsn9GMBGM6D_kIaqdMuXXJwczHM4k-M5lMIQ">
+<img align="left" alt="coding" width="350" height="350" src="https://media.licdn.com/dms/image/v2/D5612AQHSMS0TGgRL3g/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1723062158785?e=2147483647&v=beta&t=-NpTOuDwsn9GMBGM6D_kIaqdMuXXJwczHM4k-M5lMIQ">
 
 
 
