@@ -15,7 +15,7 @@
 ## A passionate 🎓 PhD-Qualified Data Analyst from The University of Sydney, Australia  
 ### STEM Knowledge Architect | Research-Driven Strategist Fueling Insights & Innovation
 
-![A passionate 🎓 PhD-Qualified Data Analyst from The University of Sydney, Australia | STEM Knowledge Architect | Research-Driven Strategist Fueling Insights & Innovation](https://github.com/Dr-MTabassum/Dr-MTabassum/blob/main/cover_link.png)
+![A passionate 🎓 PhD-Qualified Data Analyst from The University of Sydney, Australia | STEM Knowledge Architect | Research-Driven Strategist Fueling Insights & Innovation](![image](https://github.com/user-attachments/assets/613c3d64-8e4f-47a8-a539-4892af770a70)
 
 </div>
 
