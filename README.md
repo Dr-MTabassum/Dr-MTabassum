@@ -28,7 +28,7 @@ I’m also diving into the cloud world with Snowflake, Google BigQuery, Supabase
 &nbsp;
 
 <p align="center">
-  <img alt="coding" width="600" height="450" src="https://media.licdn.com/dms/image/v2/D5612AQHSMS0TGgRL3g/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1723062158785?e=2147483647&v=beta&t=-NpTOuDwsn9GMBGM6D_kIaqdMuXXJwczHM4k-M5lMIQ">
+  <img alt="coding" width="700" height="450" src="https://media.licdn.com/dms/image/v2/D5612AQHSMS0TGgRL3g/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1723062158785?e=2147483647&v=beta&t=-NpTOuDwsn9GMBGM6D_kIaqdMuXXJwczHM4k-M5lMIQ">
 </p>
 
 
@@ -57,7 +57,7 @@ I’m also diving into the cloud world with Snowflake, Google BigQuery, Supabase
 &nbsp;
 
 
-<img align="right" alt="coding" width="425" height="300" src="https://exceltable.com/en/templates/images/template6-1.gif"> 
+<img align="right" alt="coding" width="400" height="350" src="https://exceltable.com/en/templates/images/template6-1.gif"> 
 
 ### The Tech Behind My Data Magic 🛠️🎩🎛️🎇💫
 
