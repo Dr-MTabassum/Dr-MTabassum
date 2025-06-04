@@ -87,15 +87,15 @@ I’m also diving into the cloud world with Snowflake, Google BigQuery, Supabase
 
 &nbsp;
 
-- 🔭 I’m currently working on this page.A Power BI dashboard project exploring rail ticket transactions, train traffic density, revenue trends, and performance metrics to support data-driven decisions as part of my data analyst internship.
+- 🔭 I’m currently working on multiple end-to-end data analysis projects, leveraging Power BI, SQL, and Python to extract insights from diverse datasets. My focus includes uncovering trends, optimizing processes, and developing impactful visualizations to support data-driven decision-making.
   
 - 🌱 I’m currently learning Advanced Power BI, Python for data analysis, advanced SQL and query optimization, statistical analysis, data visualization best practices, and hands-on experience with Metabase, Google BigQuery, Snowflake, and Supabase.
   
-- 👯 I’m looking to collaborate on Data analysis, dashboard creation, automation, and data wrangling, cleaning, and preparation projects to build real-world experience.
-  
-- 🤔 I’m looking for help with Improving and optimizing SQL queries, DAX formulas, Python data processing, and statistical analysis workflows.
+- 👯 I’m looking to collaborate on data analysis, dashboard creation, automation, and data wrangling, cleaning, and preparation projects to build real-world experience.  
   
 - 💬 Ask me about Data visualization, analytics projects, and data automation (including refreshes and scheduled updates) — I'm also expanding my skills in full ETL automation.
+
+- 🤔🌍 I’m actively seeking remote opportunities in data analysis and business intelligence, leveraging my expertise in SQL, Power BI, Python, Excel, Looker Studio, and Google Sheets to drive impactful insights and stakeholder engagement.
   
 - 📫 How to reach me: www.linkedin.com/in/maisha-tabassum-phd
   
