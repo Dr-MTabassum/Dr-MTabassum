@@ -95,7 +95,7 @@ I’m also diving into the cloud world with Snowflake, Google BigQuery, Supabase
   
 - 💬 Ask me about Data visualization, analytics projects, and data automation (including refreshes and scheduled updates) — I'm also expanding my skills in full ETL automation.
 
-- 🤔🌍 I’m actively seeking remote opportunities in data analysis and business intelligence, leveraging my expertise in SQL, Power BI, Python, Excel, Looker Studio, and Google Sheets to drive impactful insights and stakeholder engagement.
+- 🤔 I’m actively seeking remote opportunities in data analysis and business intelligence, leveraging my expertise in SQL, Power BI, Python, Excel, Looker Studio, and Google Sheets to drive impactful insights and stakeholder engagement.🌍
   
 - 📫 How to reach me: www.linkedin.com/in/maisha-tabassum-phd
   
