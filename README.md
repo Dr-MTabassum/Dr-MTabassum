@@ -126,7 +126,7 @@ I’m also diving into the cloud world with Snowflake, Google BigQuery, Supabase
   <a href="https://yourwebsite.com" target="_blank">
     <img src="https://img.shields.io/badge/My--Portfolio-4285F4?style=for-the-badge&logo=icloud&logoColor=white" alt="Portfolio">
   </a>
-   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+   <a href="https://www.linkedin.com/in/maisha-tabassum-phd/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
  
