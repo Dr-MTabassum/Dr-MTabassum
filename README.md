@@ -124,17 +124,17 @@ I’m also diving into the cloud world with Snowflake, Google BigQuery, Supabase
  
  
   <a href="https://yourwebsite.com" target="_blank">
-    <img src="https://img.shields.io/badge/My--Portfolio-4285F4?style=for-the-badge&logo=icloud&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/My--Portfolio-2986cc?style=for-the-badge&logo=icloud&logoColor=white" alt="Portfolio">
   </a>
    <a href="https://www.linkedin.com/in/maisha-tabassum-phd/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-513030?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
  
    <a href="https://github.com/Dr-MTabassum" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-6d5849?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7339196607118176256/" target="_blank">
-  <img src="https://img.shields.io/badge/Newsletter-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Newsletter">
+  <img src="https://img.shields.io/badge/Newsletter-0e5a60?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Newsletter">
 </a>
 
 </p>
