@@ -134,7 +134,7 @@ I’m also diving into the cloud world with Snowflake, Google BigQuery, Supabase
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7339196607118176256/" target="_blank">
-  <img src="https://img.shields.io/badge/Newsletter-Subscribe-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Newsletter">
+  <img src="https://img.shields.io/badge/Newsletter-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Newsletter">
 </a>
 
 </p>
