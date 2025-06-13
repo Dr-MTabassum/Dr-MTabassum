@@ -124,10 +124,10 @@ I’m also diving into the cloud world with Snowflake, Google BigQuery, Supabase
  
  
   <a href="https://yourwebsite.com" target="_blank">
-    <img src="https://img.shields.io/badge/My--Portfolio-0077B5?style=for-the-badge&logo=icloud&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/My--Portfolio-513030?style=for-the-badge&logo=icloud&logoColor=white" alt="Portfolio">
   </a>
    <a href="https://www.linkedin.com/in/maisha-tabassum-phd/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-513030?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
  
    <a href="https://github.com/Dr-MTabassum" target="_blank">
