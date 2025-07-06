@@ -15,7 +15,7 @@
 ## A passionate 🎓 PhD-Qualified Data Analyst from The University of Sydney, Australia  
 ### STEM Knowledge Architect | Research-Driven Strategist Fueling Insights & Innovation
 
-![image](https://media.licdn.com/dms/image/v2/D5616AQEmqFZJSkLvJQ/profile-displaybackgroundimage-shrink_350_1400/B56ZdazjH6GsAc-/0/1749575153027?e=1755129600&v=beta&t=WFMa3zPQUnN4Moe1vj6zafl9soSNLkG_bo4ANnTmbQ0)
+![image](https://media.licdn.com/dms/image/v2/D5616AQH4UaYN4PaeOw/profile-displaybackgroundimage-shrink_350_1400/B56ZffgVXGG0AY-/0/1751801485641?e=1757548800&v=beta&t=2jOJOINUC7rn3lt4_r0uFHz2NNApsGq9kTS22O9TOkQ)
 
 </div>
 
