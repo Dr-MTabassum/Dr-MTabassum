@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋, I'm Maisha Tabassum
+# Hi there 👋, I'm Dr. Maisha
 
 </div>
 
